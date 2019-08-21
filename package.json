@@ -1,0 +1,22 @@
+{
+  "name": "expressanimals",
+  "version": "1.0.0",
+  "description": "https://discuss.codecademy.com/t/how-can-i-practice-setting-up-express-locally/402966",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jitgitbit/ExpressAnimals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jitgitbit/ExpressAnimals/issues"
+  },
+  "homepage": "https://github.com/Jitgitbit/ExpressAnimals#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
